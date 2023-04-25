@@ -1,0 +1,7 @@
+{
+  "control": {
+    "countLimit": 0,
+    "monthlyLimit": 10000,
+    "callsPerSecond": 10
+  }
+}
